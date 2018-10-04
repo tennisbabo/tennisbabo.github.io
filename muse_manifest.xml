@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1538690196687">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="press.css" crc="4128568981" ref="press"/>
+    <file name="research.css" crc="297315232" ref="research"/>
+    <file name="index.css" crc="446350408" ref="index"/>
+    <file name="haptic-edge-display.css" crc="4128568981" ref="haptic-edge-display"/>
+    <file name="zooids.css" crc="237706798" ref="zooids"/>
+    <file name="contact.css" crc="448923494" ref="contact"/>
+    <file name="publications.css" crc="20722217" ref="publications"/>
+    <file name="ubiswarm.css" crc="4128568981" ref="ubiswarm"/>
+    <file name="about.css" crc="4128568981" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+    <file name="museutils.js" crc="340535759" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+    <file name="whatinput.js" crc="86476730" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+    <file name="museconfig.js" crc="310584261" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:research:zooids:contact:publications"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+    <file name="webpro.js" crc="4059564322" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+    <file name="require.js" crc="7928878" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
+  </folder>
+  <folder name="images">
+    <file name="teatimer2-crop-u559.jpg" crc="4248485295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="curve-crop-u529.jpg" crc="401953407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="picture1-crop-u586.jpg" crc="3783399079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="phonecall.jpg" crc="4172337020" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="reading1-cropped.jpg" crc="241011720" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="img_0829.jpg" crc="4075292805" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="captcha.png" crc="362548909" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="475384308" seo="true" mt="1538681081565" redirect="true"/>
+  <file name="research.html" crc="3831940783" seo="true" mt="1538681956727" redirect="true"/>
+  <file name="zooids.html" crc="137685692" seo="true" mt="1538680657656" redirect="true"/>
+  <file name="ubiswarm.html" crc="4071588155" seo="true" mt="1538680657656" redirect="false"/>
+  <file name="haptic-edge-display.html" crc="4171884236" seo="true" mt="1538680657656" redirect="false"/>
+  <file name="about.html" crc="3825186172" seo="true" mt="1538680657656" redirect="false"/>
+  <file name="contact.html" crc="446424214" seo="true" mt="1538680657656" redirect="true"/>
+  <file name="publications.html" crc="4040177178" seo="true" mt="1538680657656" redirect="true"/>
+  <file name="press.html" crc="3764940797" seo="true" mt="1538680657656" redirect="false"/>
+</manifest>
