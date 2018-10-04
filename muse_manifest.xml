@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1538693824584">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1538694249575">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
@@ -10,9 +10,9 @@
     <file name="haptic-edge-display.css" crc="4128568981" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="237706798" ref="zooids"/>
     <file name="contact.css" crc="448923494" ref="contact"/>
-    <file name="publications.css" crc="460111633" ref="publications"/>
+    <file name="publications.css" crc="3831462338" ref="publications"/>
     <file name="ubiswarm.css" crc="4128568981" ref="ubiswarm"/>
-    <file name="about.css" crc="134481239" ref="about"/>
+    <file name="about.css" crc="18426925" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press"/>
@@ -50,7 +50,7 @@
       <caption webpage="research" alt=""/>
     </file>
     <file name="captcha.png" crc="362548909" ref="contact"/>
-    <file name="download.jpg" crc="41266231" seo="true" ref="about">
+    <file name="download.jpg" crc="301784166" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="google-scholar-logo.png" crc="296147318" seo="true" ref="about">
@@ -62,8 +62,8 @@
   <file name="zooids.html" crc="137685692" seo="true" mt="1538680657656" redirect="true"/>
   <file name="ubiswarm.html" crc="4071588155" seo="true" mt="1538680657656" redirect="false"/>
   <file name="haptic-edge-display.html" crc="4171884236" seo="true" mt="1538680657656" redirect="false"/>
-  <file name="about.html" crc="4224359396" seo="true" mt="1538693804119" redirect="true"/>
+  <file name="about.html" crc="499684507" seo="true" mt="1538693918261" redirect="true"/>
   <file name="contact.html" crc="446424214" seo="true" mt="1538680657656" redirect="true"/>
-  <file name="publications.html" crc="53545940" seo="true" mt="1538691709533" redirect="true"/>
+  <file name="publications.html" crc="3932316748" seo="true" mt="1538694235692" redirect="true"/>
   <file name="press.html" crc="4177584957" seo="true" mt="1538693339673" redirect="true"/>
 </manifest>
