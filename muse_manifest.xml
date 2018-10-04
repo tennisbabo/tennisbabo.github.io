@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1538691735059">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1538693116190">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="press.css" crc="3758959016" ref="press"/>
+    <file name="press.css" crc="426334411" ref="press"/>
     <file name="research.css" crc="4182454034" ref="research"/>
     <file name="index.css" crc="446350408" ref="index"/>
     <file name="haptic-edge-display.css" crc="4128568981" ref="haptic-edge-display"/>
@@ -59,5 +59,5 @@
   <file name="about.html" crc="119148257" seo="true" mt="1538691704310" redirect="true"/>
   <file name="contact.html" crc="446424214" seo="true" mt="1538680657656" redirect="true"/>
   <file name="publications.html" crc="53545940" seo="true" mt="1538691709533" redirect="true"/>
-  <file name="press.html" crc="3877719531" seo="true" mt="1538691697478" redirect="true"/>
+  <file name="press.html" crc="3988316622" seo="true" mt="1538693069479" redirect="true"/>
 </manifest>
