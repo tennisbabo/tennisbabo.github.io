@@ -36,13 +36,13 @@
       <image:loc>http://lhkim.com/images/shared.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lhkim.com/images/reading1-cropped-crop-u6611.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://lhkim.com/images/phonecall-crop-u6637.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lhkim.com/images/diffaxis%20-%20high.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/reading1-cropped-crop-u6611.png</image:loc>
     </image:image>
   </url>
   <url>
