@@ -14,6 +14,9 @@
     <image:image>
       <image:loc>http://lhkim.com/images/picture1-crop-u586.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/plane-crop-u6701.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://lhkim.com/contact.html</loc>
@@ -26,9 +29,6 @@
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lhkim.com/images/plane-crop-u3369.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://lhkim.com/images/img_0829-crop-u6624.jpg</image:loc>
     </image:image>
@@ -43,6 +43,9 @@
     </image:image>
     <image:image>
       <image:loc>http://lhkim.com/images/reading1-cropped-crop-u6611.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/plane-crop-u3369.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -76,7 +79,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lhkim.com/robotic-assembly.html</loc>
+    <loc>http://lhkim.com/surgical-robotics.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -94,22 +97,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lhkim.com/swarm-ui.html</loc>
-    <lastmod>2018-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://lhkim.com/misalignment.html</loc>
-    <lastmod>2018-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lhkim.com/images/combined.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://lhkim.com/surgical-robotics.html</loc>
+    <loc>http://lhkim.com/robotic-assembly.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -122,6 +110,21 @@
     <image:image>
       <image:loc>http://lhkim.com/images/pasted%20image%20728x657.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://lhkim.com/misalignment.html</loc>
+    <lastmod>2018-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lhkim.com/images/combined.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://lhkim.com/swarm.html</loc>
+    <lastmod>2018-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/assets/20181004-cv.pdf</loc>
