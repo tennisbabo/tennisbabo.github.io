@@ -1,23 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539412008266">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539416533650">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="62149030"/>
-    <file name="press.css" crc="426334411" ref="press"/>
-    <file name="research.css" crc="4182454034" ref="research"/>
-    <file name="index.css" crc="3981958815" ref="index"/>
-    <file name="haptic-edge-display.css" crc="4151421094" ref="haptic-edge-display"/>
-    <file name="zooids.css" crc="237706798" ref="zooids"/>
-    <file name="contact.css" crc="448923494" ref="contact"/>
-    <file name="publications.css" crc="3831462338" ref="publications"/>
-    <file name="ubiswarm.css" crc="4182106125" ref="ubiswarm"/>
-    <file name="about.css" crc="4289662895" ref="about"/>
-    <file name="trilateral-shared-control.css" crc="38938977" ref="trilateral-shared-control"/>
-    <file name="surgical-robotics.css" crc="4128568981" ref="surgical-robotics"/>
-    <file name="robotic-assembly.css" crc="3825894006" ref="robotic-assembly"/>
-    <file name="swarm-ui.css" crc="4128568981" ref="swarm-ui"/>
-    <file name="misalignment.css" crc="4204549769" ref="misalignment"/>
+    <file name="press.css" crc="9849697" ref="press"/>
+    <file name="research.css" crc="3855407253" ref="research"/>
+    <file name="index.css" crc="267652881" ref="index"/>
+    <file name="haptic-edge-display.css" crc="4262914130" ref="haptic-edge-display"/>
+    <file name="zooids.css" crc="358932455" ref="zooids"/>
+    <file name="contact.css" crc="239009651" ref="contact"/>
+    <file name="publications.css" crc="181053707" ref="publications"/>
+    <file name="ubiswarm.css" crc="333142312" ref="ubiswarm"/>
+    <file name="about.css" crc="477954167" ref="about"/>
+    <file name="trilateral-shared-control.css" crc="4189297356" ref="trilateral-shared-control"/>
+    <file name="surgical-robotics.css" crc="158968984" ref="surgical-robotics"/>
+    <file name="robotic-assembly.css" crc="297909031" ref="robotic-assembly"/>
+    <file name="swarm-ui.css" crc="158968984" ref="swarm-ui"/>
+    <file name="misalignment.css" crc="3939798211" ref="misalignment"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:swarm-ui:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control"/>
@@ -34,14 +34,14 @@
     <file name="require.js" crc="7928878" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:swarm-ui:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control"/>
   </folder>
   <folder name="images">
-    <file name="teatimer2-crop-u559.jpg" crc="4248485295" seo="true" ref="index">
+    <file name="teatimer2-crop-u559.jpg" crc="237963429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="curve-crop-u529.jpg" crc="401953407" seo="true" ref="index">
+    <file name="curve-crop-u529.jpg" crc="209330616" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="picture1-crop-u586.jpg" crc="3783399079" seo="true" ref="index">
+    <file name="picture1-crop-u586.jpg" crc="372642951" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -55,9 +55,6 @@
       <caption webpage="research" alt=""/>
     </file>
     <file name="captcha.png" crc="362548909" ref="contact"/>
-    <file name="download.jpg" crc="301784166" seo="true" ref="about">
-      <caption webpage="about" alt=""/>
-    </file>
     <file name="google-scholar-logo.png" crc="296147318" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -67,19 +64,22 @@
     <file name="pasted image 728x657.jpg" crc="309708499" seo="true" ref="trilateral-shared-control">
       <caption webpage="trilateral-shared-control" alt=""/>
     </file>
+    <file name="download296x296.jpg" crc="301784166" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="471272767" seo="true" mt="1539036586586" redirect="true"/>
-  <file name="research.html" crc="451079581" seo="true" mt="1538691714606" redirect="true"/>
-  <file name="zooids.html" crc="137685692" seo="true" mt="1538680657656" redirect="true"/>
-  <file name="ubiswarm.html" crc="122364222" seo="true" mt="1539411646891" redirect="true"/>
-  <file name="haptic-edge-display.html" crc="521449608" seo="true" mt="1539411632838" redirect="true"/>
-  <file name="about.html" crc="343273693" seo="true" mt="1538718721587" redirect="true"/>
-  <file name="contact.html" crc="446424214" seo="true" mt="1538680657656" redirect="true"/>
-  <file name="publications.html" crc="3932316748" seo="true" mt="1538694235692" redirect="true"/>
-  <file name="press.html" crc="4177584957" seo="true" mt="1538693339673" redirect="true"/>
-  <file name="swarm-ui.html" crc="478885807" seo="true" mt="1538718845812" redirect="false"/>
-  <file name="robotic-assembly.html" crc="4123820524" seo="true" mt="1539411652809" redirect="true"/>
-  <file name="surgical-robotics.html" crc="3931227137" seo="true" mt="1538718891126" redirect="false"/>
-  <file name="misalignment.html" crc="73273885" seo="true" mt="1539411623561" redirect="true"/>
-  <file name="trilateral-shared-control.html" crc="499147650" seo="true" mt="1539411901287" redirect="true"/>
+  <file name="index.html" crc="387506692" seo="true" mt="1539415596612" redirect="true"/>
+  <file name="research.html" crc="4079950895" seo="true" mt="1539414611829" redirect="true"/>
+  <file name="zooids.html" crc="354593571" seo="true" mt="1539416293884" redirect="true"/>
+  <file name="ubiswarm.html" crc="262786552" seo="true" mt="1539416338703" redirect="true"/>
+  <file name="haptic-edge-display.html" crc="438092856" seo="true" mt="1539416383891" redirect="true"/>
+  <file name="about.html" crc="4165929438" seo="true" mt="1539416037527" redirect="true"/>
+  <file name="contact.html" crc="4262982887" seo="true" mt="1539416030725" redirect="true"/>
+  <file name="publications.html" crc="170675703" seo="true" mt="1539415739523" redirect="true"/>
+  <file name="press.html" crc="149165725" seo="true" mt="1539416054866" redirect="true"/>
+  <file name="swarm-ui.html" crc="4044105887" seo="true" mt="1539414611829" redirect="false"/>
+  <file name="robotic-assembly.html" crc="469343912" seo="true" mt="1539416208860" redirect="true"/>
+  <file name="surgical-robotics.html" crc="131521329" seo="true" mt="1539414611829" redirect="false"/>
+  <file name="misalignment.html" crc="57182946" seo="true" mt="1539416426799" redirect="true"/>
+  <file name="trilateral-shared-control.html" crc="3770987526" seo="true" mt="1539416492824" redirect="true"/>
 </manifest>
