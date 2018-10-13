@@ -19,7 +19,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lhkim.com/contact.html</loc>
+    <loc>http://lhkim.com/publications.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -77,18 +77,24 @@
     <image:image>
       <image:loc>http://lhkim.com/images/download296x296.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/pasted%20image%20225x225.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://lhkim.com/surgical-robotics.html</loc>
+    <loc>http://lhkim.com/contact.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lhkim.com/publications.html</loc>
+    <loc>http://lhkim.com/misalignment.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lhkim.com/images/combined.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://lhkim.com/press.html</loc>
@@ -103,6 +109,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://lhkim.com/surgical-robotics.html</loc>
+    <lastmod>2018-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lhkim.com/swarm.html</loc>
+    <lastmod>2018-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://lhkim.com/trilateral-shared-control.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,16 +130,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lhkim.com/misalignment.html</loc>
-    <lastmod>2018-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lhkim.com/images/combined.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://lhkim.com/swarm.html</loc>
+    <loc>http://lhkim.com/swarmhaptics.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
