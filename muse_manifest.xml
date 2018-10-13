@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539463165535">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539464294608">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
@@ -9,10 +9,10 @@
     <file name="index.css" crc="497669356" ref="index"/>
     <file name="haptic-edge-display.css" crc="4210318843" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="358932455" ref="zooids"/>
-    <file name="contact.css" crc="239009651" ref="contact"/>
+    <file name="contact.css" crc="278867800" ref="contact"/>
     <file name="publications.css" crc="181053707" ref="publications"/>
     <file name="ubiswarm.css" crc="333142312" ref="ubiswarm"/>
-    <file name="about.css" crc="371382143" ref="about"/>
+    <file name="about.css" crc="3943556421" ref="about"/>
     <file name="trilateral-shared-control.css" crc="3987986776" ref="trilateral-shared-control"/>
     <file name="surgical-robotics.css" crc="158968984" ref="surgical-robotics"/>
     <file name="robotic-assembly.css" crc="531940725" ref="robotic-assembly"/>
@@ -33,6 +33,10 @@
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
     <file name="require.js" crc="7928878" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u2072.php" crc="346835994" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="teatimer2-crop-u559.jpg" crc="237963429" seo="true" ref="index">
@@ -46,7 +50,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="captcha.png" crc="362548909" ref="contact"/>
     <file name="google-scholar-logo.png" crc="296147318" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
@@ -89,8 +92,8 @@
   <file name="zooids.html" crc="354593571" seo="true" mt="1539416293884" redirect="true"/>
   <file name="ubiswarm.html" crc="262786552" seo="true" mt="1539416338703" redirect="true"/>
   <file name="haptic-edge-display.html" crc="3771484383" seo="true" mt="1539462599758" redirect="true"/>
-  <file name="about.html" crc="479448663" seo="true" mt="1539463153997" redirect="true"/>
-  <file name="contact.html" crc="4262982887" seo="true" mt="1539416030725" redirect="true"/>
+  <file name="about.html" crc="142324411" seo="true" mt="1539463196316" redirect="true"/>
+  <file name="contact.html" crc="6749033" seo="true" mt="1539464221654" redirect="true"/>
   <file name="publications.html" crc="170675703" seo="true" mt="1539415739523" redirect="true"/>
   <file name="press.html" crc="149165725" seo="true" mt="1539416054866" redirect="true"/>
   <file name="robotic-assembly.html" crc="4122530130" seo="true" mt="1539462578748" redirect="true"/>
