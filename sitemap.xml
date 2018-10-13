@@ -27,13 +27,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lhkim.com/images/phonecall.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://lhkim.com/images/reading1-cropped.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lhkim.com/images/img_0829.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/phonecall-crop-u3369.jpg</image:loc>
     </image:image>
   </url>
   <url>
