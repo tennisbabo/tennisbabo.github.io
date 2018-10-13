@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539418953763">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539420018197">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
@@ -6,7 +6,7 @@
     <file name="site_global.css" crc="62149030"/>
     <file name="press.css" crc="9849697" ref="press"/>
     <file name="research.css" crc="416667982" ref="research"/>
-    <file name="index.css" crc="42909649" ref="index"/>
+    <file name="index.css" crc="4074332179" ref="index"/>
     <file name="haptic-edge-display.css" crc="4262914130" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="358932455" ref="zooids"/>
     <file name="contact.css" crc="239009651" ref="contact"/>
@@ -77,7 +77,7 @@
       <caption webpage="research" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="16156808" seo="true" mt="1539418908348" redirect="true"/>
+  <file name="index.html" crc="4130405633" seo="true" mt="1539420007604" redirect="true"/>
   <file name="research.html" crc="153858225" seo="true" mt="1539418828414" redirect="true"/>
   <file name="zooids.html" crc="354593571" seo="true" mt="1539416293884" redirect="true"/>
   <file name="ubiswarm.html" crc="262786552" seo="true" mt="1539416338703" redirect="true"/>
