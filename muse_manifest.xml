@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539464977531">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539465083999">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="62149030"/>
-    <file name="press.css" crc="268984135" ref="press"/>
-    <file name="research.css" crc="342275470" ref="research"/>
+    <file name="press.css" crc="3986963860" ref="press"/>
+    <file name="research.css" crc="222903683" ref="research"/>
     <file name="index.css" crc="360658574" ref="index"/>
     <file name="haptic-edge-display.css" crc="4210318843" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="358932455" ref="zooids"/>
@@ -88,14 +88,14 @@
     </file>
   </folder>
   <file name="index.html" crc="3759292897" seo="true" mt="1539464957138" redirect="true"/>
-  <file name="research.html" crc="256228383" seo="true" mt="1539464753819" redirect="true"/>
+  <file name="research.html" crc="3961064139" seo="true" mt="1539465074058" redirect="true"/>
   <file name="zooids.html" crc="354593571" seo="true" mt="1539416293884" redirect="true"/>
   <file name="ubiswarm.html" crc="262786552" seo="true" mt="1539416338703" redirect="true"/>
   <file name="haptic-edge-display.html" crc="3771484383" seo="true" mt="1539462599758" redirect="true"/>
   <file name="about.html" crc="6889715" seo="true" mt="1539464448269" redirect="true"/>
   <file name="contact.html" crc="413938564" seo="true" mt="1539464948281" redirect="true"/>
   <file name="publications.html" crc="3987429406" seo="true" mt="1539464951306" redirect="true"/>
-  <file name="press.html" crc="4113717042" seo="true" mt="1539464805307" redirect="true"/>
+  <file name="press.html" crc="4018362517" seo="true" mt="1539465069559" redirect="true"/>
   <file name="robotic-assembly.html" crc="4122530130" seo="true" mt="1539462578748" redirect="true"/>
   <file name="surgical-robotics.html" crc="131521329" seo="true" mt="1539414611829" redirect="false"/>
   <file name="misalignment.html" crc="4148870710" seo="true" mt="1539423497335" redirect="true"/>
