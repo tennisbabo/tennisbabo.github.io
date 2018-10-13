@@ -27,13 +27,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://lhkim.com/images/reading1-cropped.jpg</image:loc>
+      <image:loc>http://lhkim.com/images/plane-crop-u3369.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lhkim.com/images/img_0829.jpg</image:loc>
+      <image:loc>http://lhkim.com/images/img_0829-crop-u6624.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lhkim.com/images/phonecall-crop-u3369.jpg</image:loc>
+      <image:loc>http://lhkim.com/images/shared.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/reading1-cropped-crop-u6611.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/phonecall-crop-u6637.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lhkim.com/images/diffaxis%20-%20high.jpg</image:loc>
     </image:image>
   </url>
   <url>

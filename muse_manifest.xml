@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539417378431">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539418953763">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="62149030"/>
     <file name="press.css" crc="9849697" ref="press"/>
-    <file name="research.css" crc="433156060" ref="research"/>
-    <file name="index.css" crc="4206282684" ref="index"/>
+    <file name="research.css" crc="416667982" ref="research"/>
+    <file name="index.css" crc="42909649" ref="index"/>
     <file name="haptic-edge-display.css" crc="4262914130" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="358932455" ref="zooids"/>
     <file name="contact.css" crc="239009651" ref="contact"/>
@@ -45,12 +45,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="reading1-cropped.jpg" crc="485876242" seo="true" ref="research">
-      <caption webpage="research" alt=""/>
-    </file>
-    <file name="img_0829.jpg" crc="3921702862" seo="true" ref="research">
-      <caption webpage="research" alt=""/>
-    </file>
     <file name="captcha.png" crc="362548909" ref="contact"/>
     <file name="google-scholar-logo.png" crc="296147318" seo="true" ref="about">
       <caption webpage="about" alt=""/>
@@ -64,12 +58,27 @@
     <file name="download296x296.jpg" crc="301784166" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="phonecall-crop-u3369.jpg" crc="3983519392" seo="true" ref="research">
+    <file name="plane-crop-u3369.jpg" crc="79313121" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="img_0829-crop-u6624.jpg" crc="4024592283" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="shared.jpg" crc="4237266719" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="reading1-cropped-crop-u6611.jpg" crc="3761568578" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="phonecall-crop-u6637.png" crc="3971546832" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="diffaxis - high.jpg" crc="4026191115" seo="true" ref="research">
       <caption webpage="research" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4042157408" seo="true" mt="1539416982209" redirect="true"/>
-  <file name="research.html" crc="159274389" seo="true" mt="1539417357028" redirect="true"/>
+  <file name="index.html" crc="16156808" seo="true" mt="1539418908348" redirect="true"/>
+  <file name="research.html" crc="153858225" seo="true" mt="1539418828414" redirect="true"/>
   <file name="zooids.html" crc="354593571" seo="true" mt="1539416293884" redirect="true"/>
   <file name="ubiswarm.html" crc="262786552" seo="true" mt="1539416338703" redirect="true"/>
   <file name="haptic-edge-display.html" crc="438092856" seo="true" mt="1539416383891" redirect="true"/>
