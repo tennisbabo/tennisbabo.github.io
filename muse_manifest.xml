@@ -1,16 +1,16 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1539486016695">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1551408171115">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="62149030"/>
     <file name="press.css" crc="3986963860" ref="press"/>
-    <file name="research.css" crc="222903683" ref="research"/>
-    <file name="index.css" crc="360658574" ref="index"/>
+    <file name="research.css" crc="377068386" ref="research"/>
+    <file name="index.css" crc="168498492" ref="index"/>
     <file name="haptic-edge-display.css" crc="4210318843" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="358932455" ref="zooids"/>
     <file name="contact.css" crc="518047024" ref="contact"/>
-    <file name="publications.css" crc="7110436" ref="publications"/>
+    <file name="publications.css" crc="3772349119" ref="publications"/>
     <file name="ubiswarm.css" crc="333142312" ref="ubiswarm"/>
     <file name="about.css" crc="114322447" ref="about"/>
     <file name="trilateral-shared-control.css" crc="3987986776" ref="trilateral-shared-control"/>
@@ -19,20 +19,21 @@
     <file name="misalignment.css" crc="3919026675" ref="misalignment"/>
     <file name="swarm.css" crc="158968984" ref="swarm"/>
     <file name="swarmhaptics.css" crc="4168202979" ref="swarmhaptics"/>
+    <file name="vps-display.css" crc="9475642" ref="vps-display"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
-    <file name="museutils.js" crc="340535759" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
-    <file name="whatinput.js" crc="86476730" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
-    <file name="museconfig.js" crc="310584261" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:research:zooids:contact:publications:about:press:ubiswarm:haptic-edge-display:robotic-assembly:misalignment:trilateral-shared-control:swarmhaptics"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
+    <file name="museutils.js" crc="340535759" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
+    <file name="whatinput.js" crc="86476730" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
+    <file name="museconfig.js" crc="310584261" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:research:zooids:contact:publications:about:press:ubiswarm:haptic-edge-display:robotic-assembly:misalignment:trilateral-shared-control:swarmhaptics:vps-display"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
     <file name="webpro.js" crc="4059564322" ref="index:contact"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
-    <file name="require.js" crc="7928878" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
+    <file name="require.js" crc="7928878" ref="index:research:zooids:ubiswarm:haptic-edge-display:about:contact:publications:press:robotic-assembly:surgical-robotics:misalignment:trilateral-shared-control:swarm:swarmhaptics:vps-display"/>
     <file name="form_check.php" crc="4020933626" ref="contact"/>
     <file name="form_throttle.php" crc="4259590256" ref="contact"/>
     <file name="form_process.php" crc="37464564" ref="contact"/>
@@ -86,20 +87,27 @@
     <file name="pasted image 225x225.jpg" crc="4136036994" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="keyboard-website-crop-u7216.png" crc="333058530" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="keyboard-website-crop-u7234.png" crc="4024625035" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3759292897" seo="true" mt="1539464957138" redirect="true"/>
-  <file name="research.html" crc="3961064139" seo="true" mt="1539465074058" redirect="true"/>
+  <file name="index.html" crc="316837940" seo="true" mt="1551408157994" redirect="true"/>
+  <file name="research.html" crc="250672633" seo="true" mt="1551407763304" redirect="true"/>
   <file name="zooids.html" crc="354593571" seo="true" mt="1539416293884" redirect="true"/>
   <file name="ubiswarm.html" crc="262786552" seo="true" mt="1539416338703" redirect="true"/>
   <file name="haptic-edge-display.html" crc="3771484383" seo="true" mt="1539462599758" redirect="true"/>
   <file name="about.html" crc="4216770194" seo="true" mt="1539485768842" redirect="true"/>
   <file name="contact.html" crc="413938564" seo="true" mt="1539464948281" redirect="true"/>
-  <file name="publications.html" crc="211177965" seo="true" mt="1539485964150" redirect="true"/>
+  <file name="publications.html" crc="4272910586" seo="true" mt="1551334485180" redirect="true"/>
   <file name="press.html" crc="4018362517" seo="true" mt="1539465069559" redirect="true"/>
   <file name="robotic-assembly.html" crc="4122530130" seo="true" mt="1539462578748" redirect="true"/>
   <file name="surgical-robotics.html" crc="131521329" seo="true" mt="1539414611829" redirect="false"/>
   <file name="misalignment.html" crc="4148870710" seo="true" mt="1539423497335" redirect="true"/>
   <file name="trilateral-shared-control.html" crc="4292706257" seo="true" mt="1539423473781" redirect="true"/>
   <file name="swarm.html" crc="278603927" seo="true" mt="1539424339751" redirect="false"/>
-  <file name="swarmhaptics.html" crc="95876837" seo="true" mt="1539424830593" redirect="true"/>
+  <file name="swarmhaptics.html" crc="3979429520" seo="true" mt="1551406326755" redirect="true"/>
+  <file name="vps-display.html" crc="432646511" seo="true" mt="1539487427804" redirect="true"/>
 </manifest>
