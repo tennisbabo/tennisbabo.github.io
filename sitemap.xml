@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://lhkim.com/index.html</loc>
-    <lastmod>2019-03-01</lastmod>
+    <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -23,13 +23,13 @@
   </url>
   <url>
     <loc>http://lhkim.com/publications.html</loc>
-    <lastmod>2019-02-28</lastmod>
+    <lastmod>2019-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/research.html</loc>
-    <lastmod>2019-03-01</lastmod>
+    <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,13 +68,13 @@
   </url>
   <url>
     <loc>http://lhkim.com/haptic-edge-display.html</loc>
-    <lastmod>2018-10-14</lastmod>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/about.html</loc>
-    <lastmod>2018-10-14</lastmod>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -89,7 +89,7 @@
   </url>
   <url>
     <loc>http://lhkim.com/contact.html</loc>
-    <lastmod>2018-10-14</lastmod>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -104,13 +104,13 @@
   </url>
   <url>
     <loc>http://lhkim.com/press.html</loc>
-    <lastmod>2018-10-14</lastmod>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/robotic-assembly.html</loc>
-    <lastmod>2018-10-14</lastmod>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -137,19 +137,19 @@
   </url>
   <url>
     <loc>http://lhkim.com/swarmhaptics.html</loc>
-    <lastmod>2019-03-01</lastmod>
+    <lastmod>2019-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/vps-display.html</loc>
-    <lastmod>2018-10-14</lastmod>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/assets/20181004-cv.pdf</loc>
-    <lastmod>2018-10-05</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
