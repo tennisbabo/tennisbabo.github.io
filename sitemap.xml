@@ -23,7 +23,13 @@
   </url>
   <url>
     <loc>http://lhkim.com/publications.html</loc>
-    <lastmod>2019-03-28</lastmod>
+    <lastmod>2019-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lhkim.com/press.html</loc>
+    <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -56,35 +62,35 @@
   </url>
   <url>
     <loc>http://lhkim.com/zooids.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/ubiswarm.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/haptic-edge-display.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://lhkim.com/about.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <lastmod>2019-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://lhkim.com/images/google-scholar-logo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lhkim.com/images/download296x296.jpg</image:loc>
+      <image:loc>http://lhkim.com/images/pasted%20image%20225x225.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://lhkim.com/images/pasted%20image%20225x225.jpg</image:loc>
+      <image:loc>http://lhkim.com/images/download.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -94,8 +100,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://lhkim.com/trilateral-shared-control.html</loc>
+    <lastmod>2019-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://lhkim.com/images/pasted%20image%20728x657.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://lhkim.com/misalignment.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -103,14 +118,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lhkim.com/press.html</loc>
-    <lastmod>2018-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://lhkim.com/robotic-assembly.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -121,29 +130,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://lhkim.com/vps-display.html</loc>
+    <lastmod>2019-05-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://lhkim.com/haptics.html</loc>
+    <lastmod>2019-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://lhkim.com/swarm.html</loc>
     <lastmod>2018-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lhkim.com/trilateral-shared-control.html</loc>
-    <lastmod>2018-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://lhkim.com/images/pasted%20image%20728x657.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://lhkim.com/swarmhaptics.html</loc>
-    <lastmod>2019-02-28</lastmod>
+    <lastmod>2019-05-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://lhkim.com/vps-display.html</loc>
-    <lastmod>2018-10-13</lastmod>
+    <loc>http://lhkim.com/assets/20190530-cv.pdf</loc>
+    <lastmod>2019-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
