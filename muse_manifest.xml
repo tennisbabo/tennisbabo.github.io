@@ -1,17 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1559335425683">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lhkim.com" resolutions="1x" timestamp="1559336517123">
   <folder name="assets">
     <file name="20181004-cv.pdf" crc="4087831058" seo="true" mt="1538693390000"/>
-    <file name="20190530-cv.pdf" crc="3969694624" seo="true" mt="1559271414000"/>
+    <file name="20190530-cv.pdf" crc="3969694624" seo="true" mt="1559335425000"/>
+    <file name="0531-preprint.pdf" crc="41995349" seo="true" mt="1559336343000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="62149030"/>
     <file name="press.css" crc="3986963860" ref="press"/>
-    <file name="research.css" crc="377068386" ref="research"/>
-    <file name="index.css" crc="4204939847" ref="index"/>
+    <file name="research.css" crc="3933813068" ref="research"/>
+    <file name="index.css" crc="168498492" ref="index"/>
     <file name="haptic-edge-display.css" crc="266499317" ref="haptic-edge-display"/>
     <file name="zooids.css" crc="3883944764" ref="zooids"/>
     <file name="contact.css" crc="518047024" ref="contact"/>
-    <file name="publications.css" crc="4252268500" ref="publications"/>
+    <file name="publications.css" crc="370976817" ref="publications"/>
     <file name="ubiswarm.css" crc="4156874621" ref="ubiswarm"/>
     <file name="about.css" crc="114322447" ref="about"/>
     <file name="trilateral-shared-control.css" crc="315104456" ref="trilateral-shared-control"/>
@@ -68,13 +69,10 @@
     <file name="shared.jpg" crc="4237266719" seo="true" ref="research">
       <caption webpage="research" alt=""/>
     </file>
-    <file name="phonecall-crop-u6637.png" crc="4190599331" seo="true" ref="research">
+    <file name="phonecall-crop-u6637.png" crc="3956794101" seo="true" ref="research">
       <caption webpage="research" alt=""/>
     </file>
     <file name="diffaxis - high.jpg" crc="4026191115" seo="true" ref="research">
-      <caption webpage="research" alt=""/>
-    </file>
-    <file name="reading1-cropped-crop-u6611.png" crc="364373745" seo="true" ref="research">
       <caption webpage="research" alt=""/>
     </file>
     <file name="plane-crop-u6701.png" crc="4191630062" seo="true" ref="index">
@@ -86,7 +84,7 @@
     <file name="pasted image 225x225.jpg" crc="4136036994" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="keyboard-website-crop-u7216.png" crc="333058530" seo="true" ref="research">
+    <file name="keyboard-website-crop-u7216.png" crc="445792833" seo="true" ref="research">
       <caption webpage="research" alt=""/>
     </file>
     <file name="keyboard-website-crop-u7234.png" crc="4024625035" seo="true" ref="index">
@@ -95,15 +93,21 @@
     <file name="download.jpg" crc="4032096312" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
+    <file name="dsc01517.jpg" crc="3826344499" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
+    <file name="reading1-cropped-crop-u7300.png" crc="364373745" seo="true" ref="research">
+      <caption webpage="research" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3868411444" seo="true" mt="1551408058344" redirect="true"/>
-  <file name="research.html" crc="250672633" seo="true" mt="1551407763304" redirect="true"/>
+  <file name="index.html" crc="4177968932" seo="true" mt="1559335440805" redirect="true"/>
+  <file name="research.html" crc="244049326" seo="true" mt="1559336324209" redirect="true"/>
   <file name="zooids.html" crc="3777661586" seo="true" mt="1559335229338" redirect="true"/>
   <file name="ubiswarm.html" crc="3900059953" seo="true" mt="1559335250976" redirect="true"/>
   <file name="haptic-edge-display.html" crc="4019698073" seo="true" mt="1559335266306" redirect="true"/>
   <file name="about.html" crc="71619210" seo="true" mt="1559271906765" redirect="true"/>
   <file name="contact.html" crc="413938564" seo="true" mt="1539464948281" redirect="true"/>
-  <file name="publications.html" crc="336260813" seo="true" mt="1559328209664" redirect="true"/>
+  <file name="publications.html" crc="4061332639" seo="true" mt="1559336512266" redirect="true"/>
   <file name="press.html" crc="4018362517" seo="true" mt="1539465069559" redirect="true"/>
   <file name="robotic-assembly.html" crc="3803512083" seo="true" mt="1559335174622" redirect="true"/>
   <file name="surgical-robotics.html" crc="131521329" seo="true" mt="1539414611829" redirect="false"/>
