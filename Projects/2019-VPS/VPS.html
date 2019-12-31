@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+		<title>LAWRENCE KIM</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+	</head>
+
+<body>
+	<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html">Lawrence Kim </a></strong> </h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="../../index.html">Home</a></li>
+						<li><a href="../../index.html#research">Research</a></li>
+						<li><a href="../../index.html#press">Press</a></li>
+						<li><a href="../../index.htm#aboutme">About</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+	<!-- Main -->
+		<section id="main" class="wrapper">
+				<div class="container">
+					<header class="major special">
+						<h2>VPS Haptic Display: Tactile Information Transfer of Vibration, Pressure and Shear</h2> <br>
+						<h4><font color="#959595">Lawrence H. Kim, Pablo Castillo, Sean Follmer, Ali Israr</font></h4>
+					</header>
+					<section>
+						
+						<div class="box alt">
+							<div class="row 50% uniform">
+								<div class="12u$"><span class="image fit"><img src="Pictures/Teaser.png" alt="" /></span></div>
+							</div>
+						</div>
+						
+						<h3>Abstract</h3>
+						<p>One of the challenges in the field of haptics is to provide meaningful and realistic sensations to users. While most real world tactile sensations are composed of multiple dimensions, most commercial product only include vibration as it is the most cost effective solution. To improve on this, we introduce VPS (Vibration, Pressure, Shear) display, a multi-dimensional tactile array that increases information transfer by combining Vibration, Pressure, and Shear similar to how RGB LED combines red, blue, and green to create new colors. We characterize the device performance and dynamics for each tactile dimension in terms of its force and displacement profiles, and evaluate information transfer of the VPS display through a stimulus identification task. Our results indicate that the information transfer through a single taxel increases from 0.56 bits to 2.15 bits when pressure and shear are added to vibrations with a slight decrease in identification accuracy. We also explored the pleasantness and continuity of VPS and the study results reveal that tactile strokes in shear mode alone are rated highest on perceived pleasantness and continuity.
+						</p>
+						
+						<hr />
+						
+						<h3>Video</h3>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/QV9gcO9yIYc" frameborder="0" allowfullscreen></iframe>
+						
+						<hr />
+						
+						<h3>Implementation</h3>
+						<h4>VPS Taxel</h4>
+						<p> Each VPS taxel consits of a voicecoil and a DC motor. Voicecoil is used to provide vibration and pressure, while DC motor generates shear sensations. </p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Hardware3.png" alt=""/></span></div>
+							</div>
+						</div>	
+						
+						<h4>VPS array with drivers</h4>
+						<p>To increase the information bandwidth, we combined 4 VPS taxels in a row to enable generation of stroke-like sensations along user's forearem.</p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Setup.png" alt=""/></span></div>
+							</div>
+						</div>	
+						
+						<hr />
+						
+						<h3>User Evaluation</h3>
+						<h4>Setup</h4>
+						<p>We performed user evaluations for both a single VPS taxel and an array of them.</p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/UserStudySetup3.png" alt=""/></span></div>
+							</div>
+						</div>
+						
+						<h4>Results</h4>
+						<p>We see an increase in information trasnfer with additional tactile dimensions. However, there seems to be an upper limit as there is no significant increase from two dimensions to three dimensions. </p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/IT.png" alt=""/></span></div>
+								
+								<div class="5u$" ><span class="image fit"><img src="Pictures/PC.png" alt=""/></span></div>
+							</div>
+						</div>	
+						
+						<hr />
+						
+						<h3>Paper</h3>
+						<header class="major">
+							<h4>VPS Haptic Display: Tactile Information Transfer of Vibration, Pressure and Shear <font color="#959595"><a href="./VPS-preprint.pdf" target="_blank"> [PDF]</a></font></h4>
+							<p>Lawrence H. Kim, Pablo Castillo, Sean Follmer, Ali Israr<br>
+							ACM Proceedings of the 2019 Interactive, Mobile, Wearable, and Ubiquitous Technologies (IMWUT)</p>
+						</header>					
+
+			
+					</section>
+				</div>
+		</section>
+</body>
+</html>

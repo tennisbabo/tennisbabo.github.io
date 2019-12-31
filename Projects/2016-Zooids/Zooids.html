@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+		<title>LAWRENCE KIM </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+	</head>
+
+<body>
+	<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html">Lawrence Kim </a></strong> </h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="../../index.html">Home</a></li>
+						<li><a href="../../index.html#research">Research</a></li>
+						<li><a href="../../index.html#press">Press</a></li>
+						<li><a href="../../index.htm#aboutme">About</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+	<!-- Main -->
+		<section id="main" class="wrapper">
+				<div class="container">
+					<header class="major special">
+						<h2>Zooids: Building Blocks for Swarm User Interface</h2> 
+						<h4><font color="#959595">Mathieu Le Goc, Lawrence H. Kim, Ali Parsaei, Jean-Daniel Fekete, Pierre Dragicevic, Sean Follmer</font></h4>
+					</header>
+					<section>
+						
+						<div class="box alt">
+							<div class="row 50% uniform">
+								<div class="12u$"><span class="image fit"><img src="Pictures/Teaser.png" alt="" /></span></div>
+							</div>
+						</div>
+						<h3>Abstract</h3>
+						<p>This paper introduces swarm user interfaces, a new class of human-computer interfaces comprised of many autonomous robots that handle both display and interaction. We describe the design of Zooids, an open-source open-hardware platform for developing tabletop swarm interfaces. The platform consists of a collection of custom-designed wheeled micro robots each 2.6 cm in diameter, a radio base-station, a high-speed DLP structured light projector for optical tracking, and a software framework for application development and control. We illustrate the potential of tabletop swarm user interfaces through a set of application scenarios developed with Zooids, and discuss general design considerations unique to swarm user interfaces. </p>
+						
+						<hr />
+						
+						<h3>Video</h3>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/ahHjSY_GLDg" frameborder="0" allowfullscreen></iframe>
+						
+						<hr />
+						
+						<h3>Hardware</h3>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Exploded2.png" alt=""/></span></div>
+							</div>
+						</div>
+						<p>Zooids are small custom-made robots as shown above; their dimensions are 26 mm in diameter, 21 mm in height and they weight about 12 g. Each robot is powered by a 100 mAh LiPo battery and uses motor driven wheels. It contains a flexible elctrode for capacitive touch sensing. It communicates with the main computer through a NRF24L01+ chip.</p>
+						
+						<h3>Tracking</h3>
+						<p>Our system uses a projector-based tracking system for robot position tracking as shwon below. Using a high frame rate (3000Hz) projector (DLP LightCrafter) from Texas Instruments Inc., a swequence of gray-coded patterns are projected onto a flat surface. Then, the photodiodes on the robot independently decodes into a location within the projected area. The instruction for setting up this projector-based tracking system is included in the repository.</p>
+						
+						<h3>Software</h3>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/architecture.png" alt=""/></span></div>
+							</div>
+						</div>
+						<p>The communication structure consists of four main layers from highest to lowest level: Application, Simulation, Server, and Hardware.
+
+						At the application level, the desired positions of the robots are computed. These desired positions are transmitted to the simulation layer through a network socket. The application programmer can choose between two control strategies: Proportional-Integral-Derivative (PID) position control or Hybrid Reciprocal Velocity Obstacles (HRVO) combined with PID (these options are explained in the next paragraphs). Based on the chosen control strategy, the simulation layer computes the goal positions of the robots, either final positions for PID or intermediate points for HRVO, and sends them to the server. Finally, the server layer dispatches commands to the individual zooids, while at the same time monitoring their status and position.
+
+						Each robot independently controls its motion through a PID controller based on the state machine shown below. Given a final goal, the robot initially turns itself in the right direction and, once aligned, accelerates to its user-defined preferred speed. When it reaches the speed, it maintains it with a PID control on the orientation to ensure its direction towards the final goal. When a new incremental goal is given, it will still move at same speed but the PID control on orientation will direct the robot towards the new intermediate goal. When the robot arrives within 5 cm of the final goal, it slows down to its minimum velocity and once within 1 cm of the final goal, it stops and orients itself as commanded by the application programmer. To enable smooth transitions between the incremental goal positions, robots are given their next position at 60 Hz.
+						</p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/local_control.png" alt=""/></span></div>
+							</div>
+						</div>
+						
+						<h3>Acknowledgements</h3>
+						<p>This is a joint work between the Shape Lab at Stanford University (USA) and the Aviz team at Inria (France).
+						It was partially funded by the RÃ©gion Ile de France, DIM ISC-PIF. We would also like to thank Alexa Siu, Shenli Yuan, Ernesto Ramirez and Pham Minh Hieu for investing so much time and efforts in making this work possible. 
+						</p>
+						
+						<h3>Paper</h3>
+						<header class="major">
+							  <h4>Zooids: Building Blocks for Swarm User Interfaces <font color="cfb282">(Best Paper Award) </font><font color="#959595"><a href="./SwarmUIs_no_copyright.pdf" target="_blank"> [PDF]</a></font></h4>
+							<p><font text-transform="lowercase">Mathieu Le Goc, Lawrence H. Kim, Ali Parsaei, Jean-Daniel Fekete, Pierre Dragicevic, Sean Follmer</font><br>
+							ACM Proceedings of the 29th Annual Symposium on User Interface Software and Technology (UIST)</p>
+						</header>	
+
+
+			
+					</section>
+				</div>
+		</section>
+</body>
+</html>

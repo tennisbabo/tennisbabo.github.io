@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+<head>
+		<title>LAWRENCE KIM</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+	</head>
+
+<body>
+	<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html">Lawrence Kim </a></strong> </h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="../../index.html">Home</a></li>
+						<li><a href="../../index.html#research">Research</a></li>
+						<li><a href="../../index.html#press">Press</a></li>
+						<li><a href="../../index.htm#aboutme">About</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+	<!-- Main -->
+		<section id="main" class="wrapper">
+				<div class="container">
+					<header class="major special">
+						<h2>Design and Evaluation of a Trilateral Shared-Control Architecture for Teleoperated Training Robots</h2> <br>
+						<h4><font color="#959595">Kamran Shamaei, Lawrence H. Kim, and Allison M. Okamura</font></h4>
+					</header>
+					<section>
+						
+						<div class="box alt">
+							<div class="row 50% uniform">
+								<div class="4u$"><span class="image fit"><img src="Pictures/Shared.PNG" alt="" /></span></div>
+							</div>
+						</div>
+						
+						<h3>Abstract</h3>
+						<p>Multilateral teleoperated robots can be used to train humans to perform complex tasks that require collaborative interaction and expert supervision, such as laparoscopic surgical procedures. In this paper, we explain the design and performance evaluation of a shared-control architecture that can be used in trilateral teleoperated training robots. The architecture includes dominance and observation factors inspired by the determinants of motor learning in humans, including observational practice, focus of attention, feedback and augmented feedback, and self- controlled practice. Toward the validation of such an architecture, we (1) verify the stability of a trilateral system by applying Llewellyn’s criterion on a two-port equivalent architecture, and (2) demonstrate that system transparency remains generally invariant across relevant observation factors and movement frequencies. In a preliminary experimental study, a dyad of two human users (one novice, one expert) collaborated on the control of a robot to follow a trajectory. The experiment showed that the framework can be used to modulate the efforts of the users and adjust the source and level of haptic feedback to the novice.
+						</p>
+						
+						<hr />
+						
+						<h3>Implementation</h3>
+						<h4>Tri-lateral Shared Control</h4>
+						<p> Two special cases of the shared-control architecture. Left: Using α = 1, the trainer is the primary performer and the novice is primarily observing the movements of the trainer (β = 0) or slave (β = 1). Right: Using α = 0, the novice is the primary performer and β = 1 given that (α , β) values are chosen from Ω. In this case, the controller gives the full control over the trainer master robot and slave robot to the novice. </p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Twocases.png" alt=""/></span></div>
+							</div>
+						</div>	
+						
+						<h4>Tri-lateral Shared Control Architecture</h4>
+						<p> The input signal to the trainer and slave robot are gauged using the dominance factor α, and the input to the novice robot is gauged using the observation factor β.</p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Control.png" alt=""/></span></div>
+							</div>
+						</div>	
+						
+						<hr />
+						
+						<h3>User Evaluation</h3>
+						<h4>Setup</h4>
+						<p>  </p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Setup.png" alt=""/></span></div>
+							</div>
+						</div>	
+							
+						<h4>Results</h4>
+						<p> </p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="8u$" ><span class="image fit"><img src="Pictures/Results.png" alt=""/></span></div>
+								
+							</div>
+						</div>	
+						
+						<hr />
+						
+						<h3>Paper</h3>
+						<header class="major">
+							<h4>Design and Evaluation of a Trilateral Shared-control Architecture for Teleoperated Training Robots <font color="#959595"><a href="./ToolMisalignment_Revised_2_26.pdf" target="_blank"> [PDF]</a></font></h4>
+							<p>Kamran Shamaei, Lawrence H. Kim, Allison M Okamura<br>
+							 IEEE 2015 Engineering in Medicine and Biology Society (EMBC)</p>
+						</header>					
+
+			
+					</section>
+				</div>
+		</section>
+</body>
+</html>
