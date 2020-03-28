@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+<head>
+		<title>LAWRENCE KIM</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="../../assets/css/main.css" />
+	</head>
+
+<body>
+	<!-- Header -->
+			<header id="header">
+				<h1><strong><a href="index.html">Lawrence Kim </a></strong> </h1>
+				<nav id="nav">
+					<ul>
+						<li><a href="../../index.html">Home</a></li>
+						<li><a href="../../index.html#research">Research</a></li>
+						<li><a href="../../index.html#press">Press</a></li>
+						<li><a href="../../index.htm#aboutme">About</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
+	<!-- Main -->
+		<section id="main" class="wrapper">
+				<div class="container">
+					<header class="major special">
+						<h2>User-defined Swarm Robot Control</h2> <br>
+						<h4><font color="#959595">Lawrence H. Kim, Daniel S. Drew, Veronika Domova, Sean Follmer</font></h4>
+					</header>
+					<section>
+						
+						<div class="box alt">
+							<div class="row 50% uniform">
+								<div class="12u$"><span class="image fit"><img src="Pictures/Sketch-Teaser.png" alt="" /></span></div>
+							</div>
+						</div>
+						<h3>Abstract</h3>
+						<p>A swarm of robots can accomplish more than the sum of its parts, and swarm systems will soon see increased use in applications ranging from tangible interfaces to search and rescue teams. However, effective human control of robot swarms has been shown to be demonstrably more diffcult than controlling a single robot, and swarm-specifc interactions methodologies are relatively underexplored. As we envision even non-expert users will have more daily in-person encounters with different numbers of robots in the future, we present a user-defned set of control interactions for tabletop swarm robots derived from an elicitation study. We investigated the effects of number of robots and proximity on the user’s interaction and found signifcant effects. For instance, participants varied between using 1-2 fngers, one hand, and both hands depending on the group size. We also provide general design guidelines such as preferred interaction modality, common strategies, and a high-agreement interaction set. </p>
+						
+						<hr />
+						
+						<h3>Video</h3>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/D-GcfZZV96M" frameborder="0" allowfullscreen></iframe>
+						
+						<hr />
+						
+						<h3>Elicitation Study on In Situ Swarm Robot Control</h3>
+						<p>To better understand how users prefer to interact with a swarm of robots, we conducted an elicitation study on swarm robot control. Our study results can inform what types of sensors are needed to enable fuid interaction between users and a swarm of robots. We have pre-registered our elicitation study at OSF.io (https://osf.io/r8fnc) and all raw data along with study results are freely available at https://osf.io/dkja9/ as well.  </p>
+						
+						<h4>Hypotheses</h4>
+						<h5>H1: Number of robots will affect how users interact.</h5>
+						<p>Researchers have shown that the number of robots can signifcantly alter how people perceive the robots when viewing their motion [36] or being touched by them. Researchers have also developed different ways to teleoperate or remotely control a swarm of agents such as leader-follower, selection and beacon control, and physicomimetics. Thus, we hypothesize that users will also adapt their interaction method for in situ control based on the number of robots.</p>
+						<h5>H2: Proximity to the robot(s) will affect how users interact.</h5>
+						<p>Literature in Human-Robot Interaction (HRI) has shown that humans perceive robots differently based on their proximity as well as prefer robots that exhibit proxemic behavior. Cauchard et al. have reported that when the robots were closer, users tended to use smaller motions. Thus, we also hypothesize that proximity to the robot(s) will change how users choose to interact with a swarm of robots.</p>
+						
+						<h4>Setup</h4>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><span class="image fit"><img src="Pictures/Setup.png" alt=""/></span></div>
+							</div>
+						</div>
+						
+						<h4>Example Prompt</h4>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/Prompt.PNG" alt="" /></div></div></div>
+							</div>
+						</div>
+						
+						<h4>Results</h4>
+						<h5>Interaction Modality</h5>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/InteractionModality.png" alt="" /></div></div></div>
+							</div>
+						</div>
+						<p>We categorized each interaction into one of the following interaction modalities: gesture, touch, verbal commands, and combinations of them. Figure 4 presents the breakdown of interaction modalities used across all conditions. For multimodal interactions, they are counted in all relevant categories. For example, interactions with both gesture and verbal commands are counted in “Gesture”, “Verbal”, and “G+V”. When looking at these overall results in the context of prior work, we see some similar trends to single robot interaction across different types of robots in terms of interaction modality - for example, our results for cm-scale wheeled robots are similar to the results found by Abtahi et al. for a single caged “safe” aerial drone [1]. Yet, our results are quite different than that of uncaged “unsafe” drones, potentially due to the non hazardous nature of our small wheeled robots. However, our results are less directly comparable to other studies which did not explore the use of touch or direct manipulation for control of many robots as the study is done in a virtual environment [17, 34]. Yet, similar to [17], we also observed that the majority of the speech commands were accompanied by a gesture.</p>
+						
+						<h5>Taxonometric Breakdown</h5>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/Taxonomy.png" alt="" /></div></div></div>
+							</div>
+						</div>
+						
+						<h5>Agreement</h5>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/Agreement.png" alt="" /></div></div></div>
+							</div>
+						</div>
+						
+						<h5>User-defined Interaction Set</h5>
+						<p>The user-defned interaction set was generated by taking the most frequent interaction for each referent. If the same interaction was used for different referents thus creating confict, the interaction was assigned to the referent with the largest group. </p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/Sketch-Main.png" alt="" /></div></div></div>
+							</div>
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/Sketch-Last.png" alt="" /></div></div></div>
+							</div>
+						</div>
+						
+						<h5>Effects of Number of Robots + Proximity to Robots</h5>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/FourPlots.png" alt="" /></div></div></div>
+							</div>
+						</div>
+						
+						<h5>Trends within Each Referent Category</h5>
+						<p>For each referent category, we compared its data with that of the remaining referents. For instance, for the robot selection category, we compared its data with that of referents not in the robot selection category.</p>
+						<div class="box alt">
+							<div class="row 50% uniform" >
+								<div class="5u$" ><div class="image fit" ><div class="image align-center"><img src="Pictures/TaxbyCat.png" alt="" /></div></div></div>
+							</div>
+						</div>
+						
+						<hr />
+						
+						
+						<h3>Paper</h3>
+						<header class="major">
+							<h4>User-defined Swarm Robot Control <font color="cfb282">(Best Paper Honorable Mention) </font><font color="#959595"><a href="./SwarmControl.pdf" target="_blank"> [PDF]</a></font></h4>
+							<p>Lawrence H. Kim, Daniel S. Drew, Veronika Domova Sean Follmer<br>
+							ACM Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI)</p>
+						</header>					
+
+			
+					</section>
+				</div>
+		</section>
+</body>
+</html>
