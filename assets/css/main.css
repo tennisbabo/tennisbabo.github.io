@@ -1571,6 +1571,8 @@
 
 	}
 
+	
+
 	body {
 		background: #fff;
 		padding-top: 6em;
@@ -1672,7 +1674,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -2176,11 +2178,11 @@ feature-grid .feature3 {
 		}
 
 			.feature-grid .feature3 .content {
-				width: 50%;
+				width: 60%;
 			}
 
 			.feature-grid .feature3 .image {
-				width: 35%;
+				width: 25%;
 			}
 
 				.feature-grid .feature3 .image img {
